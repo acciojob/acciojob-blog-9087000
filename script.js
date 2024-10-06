@@ -17,7 +17,7 @@ const blogPosts = [
     {
         title: "Complete Guide on FlexBox",
         link: "#",
-        image: "https://acciojob.com/blog/content/images/size/w2000/2023/02/Screenshot.png",
+        image: "https://acciojob.com/blog/content/images/size/w2000/2023/02/Screenshot-2023-02-06-at-7.28.31-PM.png",
         alt: "Complete Guide on FlexBox",
         paragraph: "As a job seeker, you may wonder how to make your LinkedIn profile stand out to recruiters. Your LinkedIn..."
     }
