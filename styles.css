@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#blog {
+    margin: 0 auto;
+    width: 80%;
+}
+
+article {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+article img {
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+}
+
+article h3 {
+    margin: 0;
+}
+
+article a {
+    margin-left: auto;
+    text-decoration: none;
+    color: blue;
+}
+
+article a:hover {
+    text-decoration: underline;
+}
